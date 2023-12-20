@@ -6,7 +6,7 @@ I'm tomjo / Tom Jorissen and I have been passionate about software development s
 - DevOps believer, GitOps <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/gitops.svg" alt="GitOps icon" height="18"> advocate
 - Believes the future tastes like Kubernetes <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/kubernetes.svg" alt="Kubernetes icon" height="18">
 - Always eager to learn and explore new skills, technologies and challenges
-- Some tools I like working with: <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/gradle.svg" alt="Gradle icon" width="150px"><img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/argocd.svg" alt="ArgoCD icon" height="18"> <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/pulsar.svg" alt="Apache Pulsar icon" height="18"> <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/keycloak.svg" alt="Keycloak icon" height="18">
+- Some tools I like working with: <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/gradle.svg" alt="Gradle icon" width="150px"> <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/argocd.svg" alt="ArgoCD icon" height="48"> <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/pulsar.svg" alt="Apache Pulsar icon" width="150px"> <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/keycloak.svg" alt="Keycloak icon" width="150px">
 
 > Most of the code here is a result of hacking/tinkering/messing around, it is not a professional showcase / portfolio. Feel free to use any code, contribute, discuss but there are no support guarantees 😉
 
