@@ -11,4 +11,5 @@ I'm tomjo / Tom Jorissen and I have been passionate about software development s
 > Most of the code here is a result of hacking/tinkering/messing around, it is not a professional showcase / portfolio. Feel free to use any code, contribute, discuss but there are no support guarantees 😉
 
 💬 Feel free to reach out to me at:
+- 📧 tom@tomjo.net
 - <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/linkedin.svg" alt="" height="14"> https://www.linkedin.com/in/tomjo
