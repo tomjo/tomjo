@@ -2,9 +2,9 @@
 
 I'm tomjo / Tom Jorissen and I have been passionate about software development since my early teens.
 
-- Most in love with Java <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/java.svg" alt="" height="14"> / the JVM ecosystem <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/kotlin.svg" alt="" height="14"> but also a Rust <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/rust.svg" alt="" height="14"> enthousiast
-- DevOps believer, GitOps advocate
-- Believes the future tastes like Kubernetes <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/kubernetes.svg" alt="" height="14">
+- Most in love with Java <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/java.svg" alt="" height="18"> / the JVM ecosystem <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/kotlin.svg" alt="" height="14"> but also a Rust <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/rust.svg" alt="" height="20"> enthousiast
+- DevOps believer, GitOps <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/gitops.svg" alt="" height="18"> advocate
+- Believes the future tastes like Kubernetes <img src="https://raw.githubusercontent.com/tomjo/tomjo/master/img/kubernetes.svg" alt="" height="18">
 - Always eager to learn and explore new skills, technologies and challenges
 
 > Most of the code here is a result of hacking/tinkering/messing around, it is not a professional showcase / portfolio. Feel free to use any code, contribute, discuss but there are no support guarantees 😉
